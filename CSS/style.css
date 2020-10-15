@@ -4,7 +4,7 @@ body {
 
 .intro {
   font-family: "Montserrat", sans-serif;
-  font-size: 2.5rem;
+  font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
   color: white;
@@ -63,7 +63,7 @@ body {
 @media (max-width: 992px) {
   .intro {
     font-family: "Montserrat", sans-serif;
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.5;
     font-weight: 900;
     color: white;
